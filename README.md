@@ -1,15 +1,50 @@
-# 👤 Portfolio
+# 🧑‍💻 Ju Han Lee
 
-안녕하세요! 임베디드 시스템, 컴퓨터 아키텍처, 그리고 딥러닝에 관심이 많은 전자전기공학 전공자입니다.  
-본 레포는 저의 이력과 주요 프로젝트를 정리한 포트폴리오입니다.
+**B.S. in Electrical Engineering, Korea University** 
+**Specialized in Computer Architecture, PIM (Processing-In-Memory), and Embedded Systems**
 
-## 📄 이력서
-- [📄 국문 이력서 (PDF)](./resume_ko.pdf)
-- [📄 영문 이력서 (PDF)](./resume_en.pdf)
+- 📍 Seoul, South Korea  
+- 📧 jfl522@korea.ac.kr / wngks522@naver.com / wngks5229244@gmail.com  
+- 📄 [Korean Resume (PDF)](./resume_ko.pdf)
 
-## 🧩 주요 프로젝트
-| 프로젝트명 | 설명 | 링크 |
-|------------|------|------|
-| RTOS 기반 카메라 트래킹 | 실시간 카메라 제어 및 스텝 모터 제어 | [자세히 보기](./projects/camera-tracker.md) |
-| NIR 영상 컬러화 | NIR 이미지를 RGB로 복원하는 딥러닝 모델 | [자세히 보기](./projects/nir-colorization.md) |
-| PIM 기반 컴파일러 확장 | RISC-V ISA 확장 및 LLVM 커스터마이징 | [자세히 보기](./projects/pim-compiler.md) |
+---
+
+## 🎓 Education
+
+**B.S., Korea University**  
+_Electrical Engineering (2016.03 ~ 2022.02)_  
+- Undergraduate Thesis: Multi-Band NIR Colorization Using StructureAware Network
+- Military Service: 2017.02 ~ 2019.02
+
+---
+
+## 💼 Professional Experience
+
+**Research Intern**, Korea University (Nov. 2018 ~ Feb. 2020)  
+- Developed arithmetic units (adder, multiplier) for various number systems (posit, bfloat16, etc.)  
+- Power and area analysis using synthesis tools
+
+---
+
+## 🧾 Publications
+
+- **[J3]** _Multi-Band NIR Colorization Using StructureAware Network _, 2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
+
+---
+
+## 👨‍🏫 Teaching Experience
+
+- TA – 	Code Generation and System Optimization (2022 Fall KECE456)
+
+---
+
+## 🛠 Skills
+
+**Programming:** C/C++, Python, Verilog  
+**Frameworks:** PyTorch, TensorFlow, ONNX Runtime  
+**Tools:** Vivado, Quartus, Design Compiler, ModelSim 
+**Profilers:** Intel VTune, NVIDIA Nsight, AMD uProf  
+
+---
+
+> For a detailed project portfolio and publications, please refer to the subfolders in this repository.
