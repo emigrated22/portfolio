@@ -1,7 +1,7 @@
 # 🧑‍💻 Ju Han Lee
 
 **B.S. in Electrical Engineering, Korea University** 
-**Specialized in Computer Architecture, PIM (Processing-In-Memory), and Embedded Systems**
+**Specialized in Image Processing, Computer Architecture, and Embedded Systems**
 
 - 📍 Seoul, South Korea  
 - 📧 jfl522@korea.ac.kr / wngks522@naver.com / wngks5229244@gmail.com  
@@ -20,15 +20,14 @@ _Electrical Engineering (2016.03 ~ 2022.02)_
 
 ## 💼 Professional Experience
 
-**Research Intern**, Korea University (Nov. 2018 ~ Feb. 2020)  
-- Developed arithmetic units (adder, multiplier) for various number systems (posit, bfloat16, etc.)  
-- Power and area analysis using synthesis tools
+**Research Intern**, Korea University (Nov. 2019 ~ Feb. 2020)  
+- Participated in a research project on **image restoration**, focusing on **super-resolution (SR)** and **denoising** techniques.
 
 ---
 
 ## 🧾 Publications
 
-- **[J3]** _Multi-Band NIR Colorization Using StructureAware Network _, 2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
+- _Multi-Band NIR Colorization Using StructureAware Network _, 2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
 
 ---
 
@@ -41,8 +40,8 @@ _Electrical Engineering (2016.03 ~ 2022.02)_
 ## 🛠 Skills
 
 **Programming:** C/C++, Python, Verilog  
-**Frameworks:** PyTorch, TensorFlow, ONNX Runtime  
-**Tools:** Vivado, Quartus, Design Compiler, ModelSim 
+**Frameworks:** ONNX Runtime, PyTorch, TensorFlow
+**Tools:** Vivado, Design Compiler, ModelSim, OrCAD 
 **Profilers:** Intel VTune, NVIDIA Nsight, AMD uProf  
 
 ---
