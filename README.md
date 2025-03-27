@@ -14,7 +14,6 @@
 **B.S., Korea University**  
 _Electrical Engineering (2016.03 ~ 2022.02)_  
 - Undergraduate Thesis: Multi-Band NIR Colorization Using StructureAware Network
-- Military Service: 2017.02 ~ 2019.02
 
 ---
 
