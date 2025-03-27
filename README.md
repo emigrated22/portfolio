@@ -40,8 +40,8 @@ _Electrical Engineering (2016.03 ~ 2022.02)_
 ## 🛠 Skills
 
 **Programming:** C/C++, Python, Verilog  
-**Frameworks:** ONNX Runtime, PyTorch, TensorFlow
-**Tools:** Vivado, Design Compiler, ModelSim, OrCAD 
+**Frameworks:** ONNX Runtime, PyTorch, TensorFlow  
+**Tools:** Vivado, Design Compiler, ModelSim, OrCAD  
 **Profilers:** Intel VTune, NVIDIA Nsight, AMD uProf  
 
 ---
