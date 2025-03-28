@@ -2,7 +2,7 @@
 
 Compare and visualize keyword search trends using the **Naver DataLab API**.
 
-![Demo](https://raw.githubusercontent.com/emigrated22/portfolio/main/Projects/Trend_Visualizer/sample.jpg)
+![Demo](https://raw.githubusercontent.com/emigrated22/portfolio/main/Projects/Trend_Visualizer/smaple.jpg)
 
 
 ## 🔗 Link
