@@ -2,7 +2,9 @@
 
 Compare and visualize keyword search trends using the **Naver DataLab API**.
 
-![preview](https://github.com/emigrated22/portfolio/tree/main/Projects/Trend_Visualizer/Project_architecture.jpg) <!-- ← 프로젝트 이미지 (원하면 GIF도 가능) -->
+![Architecture](https://raw.githubusercontent.com/emigrated22/portfolio/main/Projects/Trend_Visualizer/Project_architecture.jpg)
+
+
 
 ## 🔗 Live Demo
 
